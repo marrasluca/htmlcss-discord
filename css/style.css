@@ -1,6 +1,12 @@
 header {
     padding-block: 15px;
     background-color: #ADD8E6;
+    background-image: url(../img/jumbo.png);
+}
+
+header img{
+    height: 50px;
+    width: 50px;
 }
 
 .flex {
