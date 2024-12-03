@@ -131,7 +131,7 @@ main section .flex-basis-40 {
  /* inizio footer */
  footer .flex div{
     flex-basis: calc((100%) / 5);
-    height: 50px;
+    /* height: 50px; */
     color: aliceblue;
    
  }
@@ -142,4 +142,12 @@ main section .flex-basis-40 {
 
  footer {
     background-color: #23272A;
+ }
+
+ footer a {
+    color: white;
+ } 
+
+ footer h5 ,h3 {
+    color: #7389DA;
  }
