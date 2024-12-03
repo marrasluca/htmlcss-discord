@@ -133,6 +133,7 @@ main section .flex-basis-40 {
     flex-basis: calc((100%) / 5);
     /* height: 50px; */
     color: aliceblue;
+    
    
  }
 
@@ -150,4 +151,8 @@ main section .flex-basis-40 {
 
  footer h5 ,h3 {
     color: #7389DA;
+ }
+
+ footer li {
+    margin: 10px;
  }
