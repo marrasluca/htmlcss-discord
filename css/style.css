@@ -84,13 +84,14 @@ section.bg-gray {
 
 }
 
-main section {
-    height: 150px;
+main section .flex-basis-40 {
+    padding-top: 20px;
+    
 }
 
 .flex-basis-60{
     flex-basis: 60%;
-    height: 100px;
+    /* height: 100px; */
 }
 
 .flex-basis-40 {
@@ -101,7 +102,7 @@ main section {
     justify-content: center;
     
 }
-
+ /* quarta sezione */
 .container-flex{
     display: flex;
     align-items: center;
